@@ -1,5 +1,5 @@
 body {
-    background-color: #e9cbcb;
+    background-color: #8c9bbb;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,19 +8,21 @@ body {
 
 .apresentação {
     background-color: #fff;
-    padding: 30px;
+    padding: 80px;
     border-radius: 15px;
     text-align: center;
-    width: 300px;
+    width: 400px;
 }
 
 .apresentação img {
-    width: 120px;
-    height: 120px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     margin-bottom: 15px;
 }
 
-.apresentação {
-    
+.apresentação p {
+    font-size: 20px;
+    color: #0e0202;
+    margin: 10px 0;
 }
